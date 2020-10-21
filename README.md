@@ -1,4 +1,19 @@
-### Hi there 👋
+### Wonyi, Jang [@JammytheDreamer](https://jammythedreamer.github.io)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jammythedreamer" alt="jammythedreamer" /> </p>
+
+### Career
+
+- Will receive the B.S. degrees, in Computer Science Engineering from Seoul National University, Seoul, Korea, in 2021
+
+### Interest
+- **Game**
+- **Classification**
+    - Data augmentation
+    
+### How to reach me
+- email: jwon2@snu.ac.kr
+
 
 <!--
 **jammythedreamer/jammythedreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
