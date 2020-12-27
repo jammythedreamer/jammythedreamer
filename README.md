@@ -5,6 +5,7 @@
 ### Career
 
 - Will receive the B.S. degrees, in Computer Science Engineering from Seoul National University, Seoul, Korea, in 2021
+- Bagelcode, 2020.12.21~
 
 ### Interest
 - **Game**
@@ -12,7 +13,7 @@
     - Data augmentation
     
 ### How to reach me
-- email: jwon2@snu.ac.kr
+- email: jammythedreamer@gmail.com
 
 
 <!--
