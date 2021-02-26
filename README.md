@@ -4,7 +4,7 @@
 
 ### Career
 
-- B.S. degrees, in Computer Science Engineering from Seoul National University, Seoul, Korea, in 2021
+- B.S. degrees, in Computer Science and Engineering from Seoul National University, Seoul, Korea, in 2021
 - Bagelcode, 2020.12.21~
 
 ### Interest
