@@ -5,13 +5,20 @@
 ### Career
 
 - B.S. degrees, in Computer Science and Engineering from Seoul National University, Seoul, Korea, in 2021
-- Bagelcode, 2020.12.21~
+- Software Enginner in Bagelcode, 2020.12.21~
 
 ### Interest
 - **Game**
 - **Classification**
     - Data augmentation
-    
+
+### Tech Stack
+
+In Bagelcode
+- Node - Typescript
+- AWS / Terraform
+
+
 ### How to reach me
 - email: jammythedreamer@gmail.com
 
