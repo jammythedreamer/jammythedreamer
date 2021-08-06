@@ -21,7 +21,7 @@ In Bagelcode
 
 ### How to reach me
 - email: jammythedreamer@gmail.com
-
+- [Notion](https://jammythedreamer.notion.site/Jammy-The-Dreamer-9374d3a634a647388695d60cd00c3ee1)
 
 <!--
 **jammythedreamer/jammythedreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
