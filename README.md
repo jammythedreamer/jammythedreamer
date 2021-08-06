@@ -5,7 +5,7 @@
 ### Career
 
 - B.S. degrees, in Computer Science and Engineering from Seoul National University, Seoul, Korea, in 2021
-- Software Enginner in Bagelcode, 2020.12.21~
+- Junior Software Engineer in Bagelcode, 2020.12.21~
 
 ### Interest
 - **Game**
