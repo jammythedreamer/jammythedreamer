@@ -9,15 +9,24 @@
 
 ### Interest
 - **Game**
+- **Blockchain**
+    - NFT
 - **Classification**
     - Data augmentation
 
+
 ### Tech Stack
 
-In Bagelcode
-- Node - Typescript
-- AWS / Terraform
-
+- Skilled
+    - Node.js(express), TypeScript
+    - MySQL
+- Basic
+    - Programming Langauges
+        - C, C#, C++, Java, Python
+    - Tools / Services
+        - React, Redis, AWS, Terrafrom, k8s, Docker, Unity, Photoshop(?)
+- Learning
+    - Rust, Solidity, Solana, NestJS, Jenkins
 
 ### How to reach me
 - email: jammythedreamer@gmail.com
