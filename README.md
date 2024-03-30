@@ -5,32 +5,23 @@
 ### Career
 
 - B.S. degrees, in Computer Science and Engineering from Seoul National University, Seoul, Korea, in 2021
-- Junior Software Engineer in Bagelcode, 2020.12.21~
+- Software Engineer in Bagelcode, 2020.12.21~
 
 ### Interest
 - **Game**
-- **Blockchain**
-    - NFT
-- **Classification**
-    - Data augmentation
-
+- **AI**
 
 ### Tech Stack
-
-- Skilled
-    - Node.js(express), TypeScript
     - MySQL
-- Basic
-    - Programming Langauges
-        - C, C#, C++, Java, Python
-    - Tools / Services
-        - React, Redis, AWS, Terrafrom, k8s, Docker, Unity, Photoshop(?)
-- Learning
-    - Rust, Solidity, Solana, NestJS, Jenkins
+- Programming Langauges
+    - TypeScript ⭐ , GO 🔥, C, C#, C++, Java, Python
+- Framework
+    - NodeJs(express, nestJs), React
+- Tools / Services
+        - Redis, AWS, Terrafrom, k8s, Docker, Unity
 
 ### How to reach me
 - email: jammythedreamer@gmail.com
-- [Notion](https://jammythedreamer.notion.site/Jammy-The-Dreamer-9374d3a634a647388695d60cd00c3ee1)
 
 <!--
 **jammythedreamer/jammythedreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
