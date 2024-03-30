@@ -12,13 +12,12 @@
 - **AI**
 
 ### Tech Stack
-    - MySQL
 - Programming Langauges
     - TypeScript ⭐ , GO 🔥, C, C#, C++, Java, Python
 - Framework
     - NodeJs(express, nestJs), React
 - Tools / Services
-        - Redis, AWS, Terrafrom, k8s, Docker, Unity
+        - Redis, AWS, Terrafrom, k8s, Docker, Unity, MySQL
 
 ### How to reach me
 - email: jammythedreamer@gmail.com
